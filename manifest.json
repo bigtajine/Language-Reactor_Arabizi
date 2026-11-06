@@ -2,8 +2,8 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Language Reactor",
-  "short_name": "Lang Reactor",
+  "name": "Language Reactor (Arabizi)",
+  "short_name": "Lang Reactor (Arabizi)",
   "version": "6.0.1",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
